@@ -1,5 +1,11 @@
 # Student-Registration-System
 
+ScreenShot-1
+
+![srs](https://github.com/user-attachments/assets/4caf9cb2-b7f8-4159-acf8-3111c3acf65a)
+
+ScreenShot-2
+![srs1](https://github.com/user-attachments/assets/607271ca-2ca7-4e0e-b370-e824442ffdb1)
 
 This project is a simple student registration system built with React, Vite, and TypeScript. It allows users to manage course types, courses, course offerings, and student registrations.
 

@@ -1,6 +1,5 @@
 # Student-Registration-System
 
-# Student Registration System
 
 This project is a simple student registration system built with React, Vite, and TypeScript. It allows users to manage course types, courses, course offerings, and student registrations.
 
